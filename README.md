@@ -96,3 +96,17 @@ Projede kullanılan veri seti, Avustralya ABC News tarafından yayınlanan haber
 * K-means dışındaki kümeleme algoritmaları (örneğin, Latent Dirichlet Allocation - LDA, DBSCAN) denenebilir.
 * Kümelerin daha iyi yorumlanabilmesi için her kümedeki en karakteristik kelimeler (örneğin, TF-IDF skorları en yüksek kelimeler) çıkarılabilir.
 * Sonuçların görselleştirilmesi (örneğin, t-SNE veya UMAP ile boyut indirgeme sonrası küme grafikleri).
+
+
+## 📞 İletişim
+
+🐛 **Bug Report**: GitHub Issues kullanın  
+💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
+📧 E-posta: [mehmetaksoy49@gmail.com]
+
+- Pull Request ile katkıda bulunun
+- Projeyi yıldızlamayı unutmayın! ⭐
+
+---
+
+**Not**: Bu proje eğitim amaçlı geliştirilmiştir ve akademik çalışmalarda referans olarak kullanılabilir.
